@@ -1,1 +1,4 @@
-# ML-MODEL-DEPLOYMENT-USING-FLASK
+# Ticket Classification
+## run below commands to execute your model
+### python model.py
+### python app.py
